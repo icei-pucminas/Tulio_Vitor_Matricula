@@ -2,6 +2,8 @@ package Secretaria;
 
 import java.util.ArrayList;
 
+import Formacao.*;
+
 public class Aluno extends Usuario {
 
 	private static int NObrigatoria;

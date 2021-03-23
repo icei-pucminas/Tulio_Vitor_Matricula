@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+import Formacao.Disciplina;
 import Secretaria.*;
 import Sistema.*;
 

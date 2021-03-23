@@ -2,6 +2,9 @@ package Secretaria;
 
 import java.util.ArrayList;
 
+import Formacao.Curso;
+import Formacao.Disciplina;
+
 public class Secretaria extends Usuario {
 
 	static ArrayList<Curso> curso = new ArrayList<>();
